@@ -1,1 +1,1 @@
-echo "# Duytran" >> README.md
+Duy tran
